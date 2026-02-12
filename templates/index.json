@@ -12,9 +12,65 @@
     "main": {
       "type": "hello-world",
       "settings": {}
+    },
+    "blocks_PJ7tUK": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_7a0d1f1_GQDW7V": {
+          "type": "ai_gen_block_7a0d1f1",
+          "settings": {
+            "desktop_width_percent": 100,
+            "background_color": "#ffffff",
+            "line_width": 4,
+            "line_color": "#e0e0e0",
+            "active_line_color": "#000f9f",
+            "marker_size": 16,
+            "marker_color": "#ffffff",
+            "marker_border_color": "#e0e0e0",
+            "marker_border_width": 3,
+            "active_marker_color": "#000f9f",
+            "active_marker_border_color": "#000f9f",
+            "card_background_color": "#f9f9f9",
+            "card_border_radius": 8,
+            "date_font_size": 14,
+            "date_color": "#000f9f",
+            "title_font_size": 20,
+            "title_color": "#333333",
+            "description_font_size": 14,
+            "description_color": "#666666",
+            "item_1_enabled": true,
+            "item_1_date": "January 2020",
+            "item_1_title": "Company founded",
+            "item_1_description": "Our journey began with a simple idea and a passion for excellence.",
+            "item_2_enabled": true,
+            "item_2_date": "June 2021",
+            "item_2_title": "First major milestone",
+            "item_2_description": "We reached our first 1,000 customers and expanded our team.",
+            "item_3_enabled": true,
+            "item_3_date": "March 2023",
+            "item_3_title": "Product innovation",
+            "item_3_description": "Launched our revolutionary new product line that changed the industry.",
+            "item_4_enabled": true,
+            "item_4_date": "September 2024",
+            "item_4_title": "Global expansion",
+            "item_4_description": "Opened offices in 5 new countries and reached 50,000 customers worldwide.",
+            "item_5_enabled": true,
+            "item_5_date": "Today",
+            "item_5_title": "Looking forward",
+            "item_5_description": "Continuing to innovate and serve our growing community with excellence."
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_7a0d1f1_GQDW7V"
+      ],
+      "name": "Scroll timeline",
+      "settings": {}
     }
   },
   "order": [
-    "main"
+    "main",
+    "blocks_PJ7tUK"
   ]
 }
